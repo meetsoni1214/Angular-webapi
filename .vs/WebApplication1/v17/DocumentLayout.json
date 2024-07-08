@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\data\\repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240708070505_UpdateUserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20240708070505_UpdateUserModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\controllers\\newusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\newusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\model\\usernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\usernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MEET\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A06CNOP4\\Program[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\model\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|c:\\users\\meet\\source\\repos\\webapplication1\\webapplication1\\migrations\\20240705090417_addusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FDF3E-71EF-4E8F-AACF-396C6B415E25}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240705090417_addusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:14:32.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:14:36.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T16:54:47.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T08:57:47.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\model\\UserModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\model\\UserModel.cs",
+              "RelativeToolTip": "WebApplication1\\model\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:38:55.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:45:06.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Service\\UserService.cs",
+              "RelativeToolTip": "WebApplication1\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:07:19.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewUserController.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\NewUserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\NewUserController.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\NewUserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\NewUserController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAIAwwFIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:14:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:19:08.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserNew.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\model\\UserNew.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\model\\UserNew.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\model\\UserNew.cs",
+              "RelativeToolTip": "WebApplication1\\model\\UserNew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:55:02.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240708070505_UpdateUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240708070505_UpdateUserModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240708070505_UpdateUserModel.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240708070505_UpdateUserModel.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240708070505_UpdateUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:05:05.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:26:38.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\model\\UserLogin.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\model\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\model\\UserLogin.cs",
+              "RelativeToolTip": "WebApplication1\\model\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:40:55.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program[1].cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A06CNOP4\\Program[1].cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A06CNOP4\\Program[1].cs",
+              "ToolTip": "C:\\Users\\MEET\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A06CNOP4\\Program[1].cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\A06CNOP4\\Program[1].cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:50:44.932Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:14:32.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\model\\Role.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\model\\Role.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\model\\Role.cs",
+              "RelativeToolTip": "WebApplication1\\model\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:16:02.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\model\\UserRoleDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\model\\UserRoleDto.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\model\\UserRoleDto.cs",
+              "RelativeToolTip": "WebApplication1\\model\\UserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:15:15.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240705090417_AddUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240705090417_AddUserModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240705090417_AddUserModel.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20240705090417_AddUserModel.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240705090417_AddUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:04:18.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T09:44:19.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\MEET\\source\\repos\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:17:39.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
